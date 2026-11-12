@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/Money%20Alfian-v3.8-6366f1?style=for-the-badge&logo=wallet&logoColor=white" alt="Money Alfian"/>
 
-# 💰 Money Alfian
+# 💰 Smart Money
 ### *Smart Personal Finance Assistant*
 
 > Aplikasi manajemen keuangan pribadi berbasis web yang cerdas, modern, dan responsif — dilengkapi asisten AI, grafik analitik, serta penyimpanan cloud.
@@ -33,7 +33,7 @@
 
 ## 📌 Tentang Proyek
 
-**Money Alfian** adalah aplikasi web keuangan pribadi yang dirancang untuk membantu pengguna mencatat, memantau, dan menganalisis pemasukan serta pengeluaran sehari-hari dengan cara yang mudah dan menyenangkan.
+**Smart Money** adalah aplikasi web keuangan pribadi yang dirancang untuk membantu pengguna mencatat, memantau, dan menganalisis pemasukan serta pengeluaran sehari-hari dengan cara yang mudah dan menyenangkan.
 
 Dilengkapi dengan **asisten AI berbasis Google Gemini**, pengguna dapat bertanya langsung tentang kondisi keuangan mereka, meminta saran menabung, atau mendapatkan analisa otomatis dari data transaksi yang sudah dimasukkan.
 
